@@ -9,7 +9,7 @@ This repository tracks C2 servers of common C2 frameworks.
 C2 Servers come on and offline periodically. Block at your own discretion.
 
 
-## C2 Servers :biohazard:
+## C2 Servers :joystick:
 C2 Server                              | 
 ---------------------------------------|
 [`Mythic`](./mythic)                   | 
