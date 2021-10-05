@@ -1,0 +1,14 @@
+ip,port,asn,isp,org,location.country,location.city,ssl.cert.fingerprint,ssl.cert.serial,ssl.jarm,ssl.ja3s
+129.146.107.84,80,AS31898,Oracle Corporation,Oracle Corporation,United States,Phoenix,,,,
+139.162.1.88,80,AS63949,"Linode, LLC","Linode, LLC",Singapore,Singapore,,,,
+139.162.164.39,80,AS63949,"Linode, LLC",139.162.0.0/16,Germany,Frankfurt am Main,,,,
+140.82.41.202,80,AS20473,"The Constant Company, LLC","Vultr Holdings, LLC",United States,New York City,,,,
+159.89.227.53,8080,AS14061,"DigitalOcean, LLC","DigitalOcean, LLC",United States,North Bergen,,,,
+185.118.164.183,7000,AS44493,Chelyabinsk-Signal LLC,PDK LLC,Russian Federation,Moscow,,,,
+192.236.162.7,8080,AS54290,Hostwinds LLC.,Hostwinds Seattle,Netherlands,Amsterdam,,,,
+198.167.136.100,443,AS32875,Wowrack.com,Virpus,United States,Seattle,1f70d1882aa697da9baf03df76d77f0d13bddcb23d4d12ff41559b17c5503cbb,1.3867473659534477e+19,20d10d20d21d20d20c20d10d20d20ddede3e7f3496248a2e00f779eee74c7f,f6e234011390444c303f74d09d87322d
+207.148.6.152,80,AS20473,"The Constant Company, LLC","Vultr Holdings, LLC",United States,Dallas,,,,
+37.228.129.20,443,AS200651,Flokinet Ltd,Flokinet Ltd,Finland,Helsinki,04c49739dae496d6f5d4e8310614ef152aace0ceec0023787d8d10565e9af935,1.2041471709311406e+19,20d10d20d21d20d20c20d10d20d20ddede3e7f3496248a2e00f779eee74c7f,f6e234011390444c303f74d09d87322d
+45.77.175.99,80,AS20473,"The Constant Company, LLC","Vultr Holdings, LLC",Singapore,Singapore,,,,
+54.91.246.45,80,AS14618,"Amazon.com, Inc.",Amazon Data Services NoVa,United States,Ashburn,,,,
+95.85.42.230,8080,AS14061,"DigitalOcean, LLC","DigitalOcean, LLC",Netherlands,Amsterdam,,,,
