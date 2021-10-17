@@ -1,0 +1,52 @@
+ip,port,asn,isp,org,location.country,location.city,ssl.cert.fingerprint,ssl.cert.serial,ssl.jarm,ssl.ja3s
+104.131.160.195,3000,AS14061,"DigitalOcean, LLC","DigitalOcean, LLC",United States,Clifton,,,,
+107.155.81.125,3000,AS29802,"HIVELOCITY, Inc.",ExtraVM LLC,United States,Dallas,,,,
+107.155.81.125,7443,AS29802,"HIVELOCITY, Inc.",ExtraVM LLC,United States,Dallas,77c05edb8024cb835d4f70fc66116eeb861b378f455e867b627fbe96c4d5e828,261374059247094410136557225240295388880,1dd40d40d00040d1dc1dd40d1dd40d49d2fee601d1d947c984d73c17761a87,1f88deb6bbac28865f2a77c1fe286e9e
+13.64.102.18,3000,AS8075,Microsoft Corporation,Microsoft Corporation,United States,San Jose,,,,
+139.99.89.117,7443,AS16276,OVH SAS,OVH Singapore PTE. LTD,Indonesia,Belakangpadang,87b927ba96e4b2ecc52452cc3866049f4dd43368d5a7a614e4cc545df17a37c9,326494970324865901406864770324835155293,1dd40d40d00040d1dc1dd40d1dd40d49d2fee601d1d947c984d73c17761a87,1f88deb6bbac28865f2a77c1fe286e9e
+139.99.89.117,3000,AS16276,OVH SAS,OVH Singapore PTE. LTD,Indonesia,Belakangpadang,,,,
+143.110.238.200,7443,AS14061,"DigitalOcean, LLC","DigitalOcean, LLC",United States,Santa Clara,4b14d2c7f74db132bb6ed45f89de7fc8afc9086aebe6597680d71e8cfdde8594,188287659465733480502457833260212812404,1dd40d40d00040d1dc1dd40d1dd40d49d2fee601d1d947c984d73c17761a87,1f88deb6bbac28865f2a77c1fe286e9e
+143.110.238.200,3000,AS14061,"DigitalOcean, LLC","DigitalOcean, LLC",United States,Santa Clara,,,,
+143.198.0.34,3000,AS14061,"DigitalOcean, LLC","DigitalOcean, LLC",United States,Clifton,,,,
+143.198.0.34,7443,AS14061,"DigitalOcean, LLC","DigitalOcean, LLC",United States,Clifton,35ac4f48af5071ca2a53ce28cf67deab8c0606f54b526efc43b443fa01cc98a3,246661235088323084067057260762006614281,1dd40d40d00040d1dc1dd40d1dd40d49d2fee601d1d947c984d73c17761a87,1f88deb6bbac28865f2a77c1fe286e9e
+143.198.28.205,3000,AS14061,"DigitalOcean, LLC","DigitalOcean, LLC",United States,Clifton,,,,
+147.182.240.53,3000,AS14061,"DigitalOcean, LLC","DigitalOcean, LLC",United States,Santa Clara,,,,
+157.230.93.100,3000,AS14061,"DigitalOcean, LLC","DigitalOcean, LLC",United States,North Bergen,,,,
+159.65.198.112,7443,AS14061,"DigitalOcean, LLC","DigitalOcean, LLC",Netherlands,Amsterdam,4b6c44ba17d6fed247700320e9273187f1a30ddfe8bce442d0fc2b9118ebb88d,15280838706236106707331167501146481606818945911,21d19d00021d21d21c21d19d21d21d3b0d229d76f2fd7cb8e23bb87da38a20,e35df3e00ca4ef31d42b34bebaa2f86e
+159.89.86.223,3000,AS14061,"DigitalOcean, LLC","DigitalOcean, LLC",United States,North Bergen,,,,
+160.20.147.34,3000,AS30823,combahton GmbH,combahton GmbH,Germany,Frankfurt am Main,,,,
+160.20.147.34,7443,AS30823,combahton GmbH,combahton GmbH,Germany,Frankfurt am Main,28392a905ff057caee3689c1cadcaa2956f62fff4e92d2d408f6f0ba23c64640,190637382976760860877979753505078070980,1dd40d40d00040d1dc1dd40d1dd40d49d2fee601d1d947c984d73c17761a87,1f88deb6bbac28865f2a77c1fe286e9e
+164.90.158.199,7443,AS14061,"DigitalOcean, LLC","DigitalOcean, LLC",United States,Santa Clara,a0b54e5bf9e5fc88f26964ea2e718fdc9d6350c2f32942930c625eacd8d7dd58,608245421303494625046685888954122765742727501555,2ad2ad0002ad2ad22c2ad2ad2ad2ad4d38a7b5ffb0e5536d09513d9de81205,f6e234011390444c303f74d09d87322d
+165.227.94.73,7443,AS14061,"DigitalOcean, LLC","DigitalOcean, LLC",United States,North Bergen,0c5f523b0ac72bb1ed9c42094b3381eeee8d810cbfb208134ab994e8c8798ff4,162021541670108182575490720286191004500,1dd40d40d00040d1dc1dd40d1dd40d49d2fee601d1d947c984d73c17761a87,1f88deb6bbac28865f2a77c1fe286e9e
+167.71.40.175,7443,AS14061,"DigitalOcean, LLC","DigitalOcean, LLC",Germany,Frankfurt am Main,329018df5f9c0abc39ff811ccfa5e2e4e574dfdcb8bfaae14398c4f7096556d3,250397280260910401323071255262373554601,1dd40d40d00040d1dc1dd40d1dd40d49d2fee601d1d947c984d73c17761a87,1f88deb6bbac28865f2a77c1fe286e9e
+167.71.40.175,3000,AS14061,"DigitalOcean, LLC","DigitalOcean, LLC",Germany,Frankfurt am Main,,,,
+176.105.255.226,7443,AS62068,SpectraIP B.V.,BREEZLE LLC,Netherlands,Amsterdam,b8601fdd164f97dbc00e95cbe435174fd0f8b1b057cfa9ebf45bf33411a3754f,101400619958461431741324350166325823081,1dd40d40d00040d1dc1dd40d1dd40d49d2fee601d1d947c984d73c17761a87,1f88deb6bbac28865f2a77c1fe286e9e
+176.105.255.226,3000,AS62068,SpectraIP B.V.,BREEZLE LLC,Netherlands,Amsterdam,,,,
+18.156.2.151,7443,AS16509,"Amazon.com, Inc.",A100 ROW GmbH,Germany,Frankfurt am Main,39d337bcf16f1129e2929d856068effe26a71aacbfc06a3042f34df175d7fcfe,207302182229693020104749675651484257681,1dd40d40d00040d1dc1dd40d1dd40d49d2fee601d1d947c984d73c17761a87,1f88deb6bbac28865f2a77c1fe286e9e
+185.224.139.224,3000,AS47583,Hostinger International Limited,Hostinger International Limited,Netherlands,Amsterdam,,,,
+185.48.228.53,7443,AS197540,netcup GmbH,Multimedia Networks AG,Switzerland,Kirchberg,026403bc68361c7fc0ae1bc587ced073389c18ab291776f60fd248f4af47ad13,171993156567123033408377765572134043885147609526,2ad2ad0002ad2ad00042d42d000000ad9bf51cc3f5a1e29eecb81d0c7b06eb,e35df3e00ca4ef31d42b34bebaa2f86e
+194.113.72.120,7443,AS25697,UpCloud USA Inc,"UpCloud Cloud Servers New York, United States",United States,New York City,1cd9ec8f17f98f40e95cf0862655abeec03e19435b003e9ea6eb0a3a6fbae685,77764265007957288233510535831553589406121756890,2ad2ad0002ad2ad00042d42d000000ad9bf51cc3f5a1e29eecb81d0c7b06eb,e35df3e00ca4ef31d42b34bebaa2f86e
+194.113.72.120,8080,AS25697,UpCloud USA Inc,"UpCloud Cloud Servers New York, United States",United States,New York City,,,,
+194.5.212.158,3000,AS9009,M247 Ltd,M247 LTD Frankfurt Infrastructure,Germany,Frankfurt am Main,,,,
+194.5.212.165,3000,AS9009,M247 Ltd,M247 LTD Frankfurt Infrastructure,Germany,Frankfurt am Main,,,,
+199.193.152.243,3000,AS64236,Accuserv Inc,"JCHost Internet Services, LLC",United States,Dearing,,,,
+3.15.179.49,7443,AS16509,"Amazon.com, Inc.",Amazon Technologies Inc.,United States,Hilliard,0ab97c2542a80865ab6d61dfd2ed083e9982a8165881d97c9baf4c67d49fbc5b,14093115156315690533826614280333397945,1dd40d40d00040d1dc1dd40d1dd40d49d2fee601d1d947c984d73c17761a87,1f88deb6bbac28865f2a77c1fe286e9e
+35.244.90.180,7443,AS15169,Google LLC,Google LLC,Australia,Sydney,4fd73afde159ae787b4307184783ec6b1f3af17efe37ef5df4701200c61c6f5b,295031165341677227301115461181649139804,1dd40d40d00040d1dc1dd40d1dd40d49d2fee601d1d947c984d73c17761a87,1f88deb6bbac28865f2a77c1fe286e9e
+45.144.29.184,3000,AS43624,PQ HOSTING S.R.L.,PQ HOSTING S.R.L.,Netherlands,Meppel,,,,
+45.32.140.163,3000,AS20473,"The Constant Company, LLC","Vultr Holdings, LLC",United States,Mountain View,,,,
+45.32.140.163,7443,AS20473,"The Constant Company, LLC","Vultr Holdings, LLC",United States,Mountain View,a113dbfecd6c0f6365bfb794c0c2ef389c7bb7505e3f7c7351de496a46724996,119916672001911892864074752758649480187,1dd40d40d00040d1dc1dd40d1dd40d49d2fee601d1d947c984d73c17761a87,1f88deb6bbac28865f2a77c1fe286e9e
+45.32.87.169,443,AS20473,"The Constant Company, LLC","Vultr Holdings, LLC",United States,Los Angeles,e659e13794e3fc782be16e0f5fb95d9c577b46c03ff6f3ceedcd67e96417ec0c,172484152979940922081269652862939931097,1dd40d40d00040d1dc1dd40d1dd40d49d2fee601d1d947c984d73c17761a87,1f88deb6bbac28865f2a77c1fe286e9e
+45.33.75.186,3000,AS63949,"Linode, LLC",Linode,United States,Morris Plains,,,,
+45.77.138.241,7443,AS20473,"The Constant Company, LLC","Vultr Holdings, LLC",Netherlands,Amsterdam,2a393e9fb398bd789c04ebb03bf786dff0d64b34efb035f63b443bbc685c5c21,334526477200534448592713655416234416501,1dd40d40d00040d1dc1dd40d1dd40d49d2fee601d1d947c984d73c17761a87,1f88deb6bbac28865f2a77c1fe286e9e
+45.77.138.241,3000,AS20473,"The Constant Company, LLC","Vultr Holdings, LLC",Netherlands,Amsterdam,,,,
+45.89.127.112,3000,AS30823,combahton GmbH,Mo's Operations GmbH,Germany,Frankfurt am Main,,,,
+49.232.215.250,8443,AS45090,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",China,Beijing,7f4dae76b6add84434fb930bc8d532996a8c4af2e1e009f6252247df285a456d,12866254692448974915,2ad2ad0002ad2ad00042d42d000000ad9bf51cc3f5a1e29eecb81d0c7b06eb,e35df3e00ca4ef31d42b34bebaa2f86e
+49.232.215.250,8080,AS45090,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",China,Beijing,,,,
+52.89.133.37,443,AS16509,"Amazon.com, Inc.",Amazon Technologies Inc.,United States,Boardman,a9a10f2a03311da8ffe8b692e5154a0ec9794dc2d52e336d3d59a6fca6592f63,85078259762399096687539897158166542023,2ad2ad0002ad2ad00042d42d000000ad9bf51cc3f5a1e29eecb81d0c7b06eb,e35df3e00ca4ef31d42b34bebaa2f86e
+52.89.133.37,7443,AS16509,"Amazon.com, Inc.",Amazon Technologies Inc.,United States,Boardman,a9a10f2a03311da8ffe8b692e5154a0ec9794dc2d52e336d3d59a6fca6592f63,85078259762399096687539897158166542023,2ad2ad0002ad2ad00042d42d000000ad9bf51cc3f5a1e29eecb81d0c7b06eb,e35df3e00ca4ef31d42b34bebaa2f86e
+52.89.133.37,8080,AS16509,"Amazon.com, Inc.",Amazon Technologies Inc.,United States,Boardman,,,,
+54.79.126.153,7443,AS16509,"Amazon.com, Inc.","Amazon.com, Inc.",Australia,Sydney,e1980045d68b9c2aebca345019ce2d14862d40d58c373536a199bf3576fcbc19,29983135779608040387729158966487255219,1dd40d40d00040d1dc1dd40d1dd40d49d2fee601d1d947c984d73c17761a87,1f88deb6bbac28865f2a77c1fe286e9e
+54.79.126.153,3000,AS16509,"Amazon.com, Inc.","Amazon.com, Inc.",Australia,Sydney,,,,
+8.130.55.52,7443,AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",Aliyun Computing Co.LTD,China,Beijing,ad1f4eacc473614991f337fbb88a4dfe90e97f735ead0ffb1cd62009f91d1298,5104523190619973119659086355608901303,1dd40d40d00040d1dc1dd40d1dd40d49d2fee601d1d947c984d73c17761a87,1f88deb6bbac28865f2a77c1fe286e9e
+8.130.55.52,3000,AS37963,"Hangzhou Alibaba Advertising Co.,Ltd.",Aliyun Computing Co.LTD,China,Beijing,,,,
+95.142.42.170,3000,AS210079,EuroByte LLC,McHost LLC,Russian Federation,Moscow,,,,
